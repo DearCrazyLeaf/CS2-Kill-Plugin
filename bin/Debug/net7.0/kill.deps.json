@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "kill/1.0.0": {
+      "Kill/1.0.0": {
         "dependencies": {
           "CounterStrikeSharp.API": "1.0.60"
         },
         "runtime": {
-          "kill.dll": {}
+          "Kill.dll": {}
         }
       },
       "CounterStrikeSharp.API/1.0.60": {
@@ -60,7 +60,7 @@
     }
   },
   "libraries": {
-    "kill/1.0.0": {
+    "Kill/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
